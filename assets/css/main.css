@@ -1785,3 +1785,12 @@ body.is-article-visible #footer {
 body.is-preload #footer {
   opacity: 0;
 }
+
+/* Custom code */
+.success-email {
+  display: none;
+}
+
+.success-email.-visible {
+  display: block;
+}
